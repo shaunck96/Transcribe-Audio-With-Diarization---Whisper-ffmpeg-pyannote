@@ -1,0 +1,1 @@
+# Transcribe-Audio-With-Diarization---Whisper-ffmpeg-pyannote
